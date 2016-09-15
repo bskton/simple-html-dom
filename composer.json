@@ -1,0 +1,13 @@
+{
+    "name": "bskton/simple-html-dom",
+    "description": "Simple HTML DOM package. Composer adaptation for library http://sourceforge.net/projects/simplehtmldom/",
+    "type": "library",
+    "license": "The MIT License",
+    "authors": [
+        {
+            "name": "S.C. Chen",
+            "email": "me578022@gmail.com"
+        }
+    ],
+    "require": {}
+}
